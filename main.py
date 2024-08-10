@@ -23,10 +23,10 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DEVIL POST</title>
+    <title>RAHUL POST</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/qMNy8Lh/received-437195329281136.jpg');
+            background-image: url('https://i.ibb.co/mqxN9Lg/Messenger-creation-a5c3ea7e-8ed6-40c8-b165-744eb924675b.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">WARRIOR RULEX DEVIL INSIDE</h1>
-        <h1 style="color: blue;">DEVIL POST SERVER (DARK WEB)</h1>
+        <h1 style="color: red;">RAHUL X3 ROBIN INSIDE</h1>
+        <h1 style="color: blue;">RAHUL X ROBIN POST SERVER (DARK WEB)</h1>
     </header>
 
     <div class="container">
